@@ -1,1 +1,2 @@
 a simple file
+Adding a new content after commiting.

@@ -1,2 +1,3 @@
 a simple file
 Adding a new content after commiting.
+add line while on b1

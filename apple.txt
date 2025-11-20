@@ -1,3 +1,4 @@
 a simple file
 Adding a new content after commiting.
 add line while on b1
+From b2 adding a line
